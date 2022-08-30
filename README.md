@@ -43,6 +43,6 @@ I'm a Python developer with over 2+ years of experience developing bots for Tele
 <img src="https://activity-graph.herokuapp.com/graph?username=Gustavosta&bg_color=20232A&color=60D9FA&line=60D9FA&point=f2f2f2&hide_border=true">
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Gustavosta&hide_border=true&count_private=true&show_icons=true&theme=react", width=260>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavosta&theme=react&hide_border=true", width=260>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavosta&show_icons=true&locale=en&layout=compact&hide_border=true&theme=react&langs_count=10", width=260>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavosta&theme=react&hide_border=true">
 </div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavosta&show_icons=true&locale=en&layout=compact&hide_border=true&theme=react&langs_count=10"></div>
