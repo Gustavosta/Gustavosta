@@ -1,4 +1,4 @@
-### Hiiii, I am Gustavo Santana (Lengo)! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
+## Hiiii, I am Gustavo Santana (Lengo)! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
 ```Python
 #!/usr/bin/python
@@ -6,14 +6,13 @@
 
 
 class Developer:
-
     def __init__(self):
         self.name = "Gustavo Santana"
         self.role = "Developer"
         self.language_spoken = ["pt_BR", "en_US"]
 
     def say_hi(self):
-        print("Thanks for stopping by, I hope you like some of my work!")
+        print("Hi! I hope you like some of my work!")
 
 
 me = Developer()
@@ -37,3 +36,13 @@ I'm a Python developer with over 2+ years of experience developing bots for Tele
 
 <img alt='analytics' src='https://profile-counter.glitch.me/Gustavostar/count.svg' width='0px'>
 
+---
+
+<div align="center"><h2>My Stats</h2></div>
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=Gustavosta&bg_color=20232A&color=60D9FA&line=60D9FA&point=f2f2f2&hide_border=true">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Gustavosta&hide_border=true&count_private=true&show_icons=true&theme=react", width=260>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavosta&theme=react&hide_border=true", width=260>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavosta&show_icons=true&locale=en&layout=compact&hide_border=true&theme=react&langs_count=10", width=260>
+</div>
