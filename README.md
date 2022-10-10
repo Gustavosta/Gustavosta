@@ -1,4 +1,4 @@
-## Hiiii, I am Gustavo Santana (Lengo)! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
+## Hiii, I am Gustavo Santana! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
 ```Python
 #!/usr/bin/python
@@ -22,10 +22,10 @@ me.say_hi()
 ### About Me
 
 - 🔭 &nbsp;I’m currently working on something cool
-- 🌱 &nbsp;I’m currently learning Javascript and C
-- 💬 &nbsp;Ask me about anything related to Python
+- 🌱 &nbsp;I’m currently learning Javascript, CSS and HTML
+- 💬 &nbsp;Ask me about anything related to Python and SQL
 
-I'm a Python developer with over 2+ years of experience developing bots for Telegram/Discord, APIs and libraries.
+I'm a Python developer with over 3+ years of experience developing bots for Telegram/Discord, APIs, automations, scripts and libraries.
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -39,8 +39,6 @@ I'm a Python developer with over 2+ years of experience developing bots for Tele
 ---
 
 <div align="center"><h2>My Stats</h2></div>
-<br>
-<img src="https://activity-graph.herokuapp.com/graph?username=Gustavosta&bg_color=20232A&color=60D9FA&line=60D9FA&point=f2f2f2&hide_border=true">
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Gustavosta&hide_border=true&count_private=true&show_icons=true&theme=react">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavosta&theme=react&hide_border=true">
