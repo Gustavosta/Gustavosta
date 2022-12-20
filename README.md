@@ -5,7 +5,7 @@ A ideia é deixar a div abaixo com o texto e a imagem lado a lado na visão do c
 -->
 <div style="display: ">
 
-<img src="https://camo.githubusercontent.com/e4c08ac27cabca4d7fb4e893956391fc333728dceeda307d3a2f44d003561020/68747470733a2f2f656d6f6a2e6d6c2f61626c6f62686f6c6f6772616d2e676966" width="50%" height="50%" style="margin: 20px" align="right">
+<img src="https://camo.githubusercontent.com/e4c08ac27cabca4d7fb4e893956391fc333728dceeda307d3a2f44d003561020/68747470733a2f2f656d6f6a2e6d6c2f61626c6f62686f6c6f6772616d2e676966" style="margin: 20px" align="right">
 
 ```python
 class Developer:
@@ -29,7 +29,7 @@ me.say_hi()
   <summary><b>👤 About Me</b></summary>
 
 <br>
-<img align='left' src="https://camo.githubusercontent.com/9c088f0ae8f132ef9dce540954d254426f923450756d1f4490870604befc827b/68747470733a2f2f656d6f6a2e6d6c2f61626c6f626c616d702e676966" width="50%" height="50%" style="margin: 20px">
+<img align='left' src="https://camo.githubusercontent.com/9c088f0ae8f132ef9dce540954d254426f923450756d1f4490870604befc827b/68747470733a2f2f656d6f6a2e6d6c2f61626c6f626c616d702e676966" style="margin: 20px">
 
 I'm a Python developer with over 3+ years of experience developing bots for Telegram/Discord, APIs, automations, scripts and libraries.
 
@@ -77,11 +77,11 @@ I'm a Python developer with over 3+ years of experience developing bots for Tele
 <br>
 <div align="center">
 <h2><b>🔗 Connect with me:</b></h2><br>
-<a href="https://www.tabnews.com.br/lengo"><img src="imgs/social/tabnews.png" width=40></a>
-<a href="https://t.me/lengodev"><img style="margin-left: 10px" src="imgs/social/telegram.png" width=40></a>
-<a href="https://www.reddit.com/user/sowlfie"><img style="margin-left: 10px" src="imgs/social/reddit.png" width=40></a>
-<a href="https://huggingface.co/Gustavosta"><img style="margin-left: 10px" src="imgs/social/huggingface.png" width=40></a>
-<a href="mailto:sowlfie@gmail.com"><img style="margin-left: 10px" src="imgs/social/mail.png" width=40></a>
+<a href="https://www.tabnews.com.br/lengo"><img src="imgs/social/tabnews.png" width=40  style="margin: 5px"></a>
+<a href="https://t.me/lengodev"><img style="margin: 5px" src="imgs/social/telegram.png" width=40></a>
+<a href="https://www.reddit.com/user/sowlfie"><img style="margin: 5px" src="imgs/social/reddit.png" width=40></a>
+<a href="https://huggingface.co/Gustavosta"><img style="margin: 5px" src="imgs/social/huggingface.png" width=40></a>
+<a href="mailto:sowlfie@gmail.com"><img style="margin: 5px" src="imgs/social/mail.png" width=40></a>
 </div>
 
 <div align="center"><img src="imgs/footer.png" width=100%></div>
