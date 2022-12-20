@@ -3,9 +3,9 @@
 <!---
 A ideia é deixar a div abaixo com o texto e a imagem lado a lado na visão do computador e quando for no celular, deixar um em cima do outro
 -->
-<div style="display: ">
+<div align="center">
 
-<img src="https://camo.githubusercontent.com/e4c08ac27cabca4d7fb4e893956391fc333728dceeda307d3a2f44d003561020/68747470733a2f2f656d6f6a2e6d6c2f61626c6f62686f6c6f6772616d2e676966" style="margin: 20px" align="right">
+<img src="https://camo.githubusercontent.com/e4c08ac27cabca4d7fb4e893956391fc333728dceeda307d3a2f44d003561020/68747470733a2f2f656d6f6a2e6d6c2f61626c6f62686f6c6f6772616d2e676966" style="margin: 20px" width=200px align="right">
 
 ```python
 class Developer:
@@ -29,7 +29,7 @@ me.say_hi()
   <summary><b>👤 About Me</b></summary>
 
 <br>
-<img align='left' src="https://camo.githubusercontent.com/9c088f0ae8f132ef9dce540954d254426f923450756d1f4490870604befc827b/68747470733a2f2f656d6f6a2e6d6c2f61626c6f626c616d702e676966" style="margin: 20px">
+<img align='left' src="https://camo.githubusercontent.com/9c088f0ae8f132ef9dce540954d254426f923450756d1f4490870604befc827b/68747470733a2f2f656d6f6a2e6d6c2f61626c6f626c616d702e676966" style="margin: 20px" width=200px>
 
 I'm a Python developer with over 3+ years of experience developing bots for Telegram/Discord, APIs, automations, scripts and libraries.
 
