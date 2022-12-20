@@ -1,4 +1,4 @@
-<div align="center"><img src="imgs/head.png"></div><br>
+<div align="center"><img src="imgs/head.png" width=100%></div><br>
 
 
 <div>
@@ -82,4 +82,4 @@ I'm a Python developer with over 3+ years of experience developing bots for Tele
 <a href="mailto:sowlfie@gmail.com"><img style="margin-left: 5px" src="imgs/social/mail.png" width=40></a>
 </div>
 
-<br><div align="center"><img src="imgs/footer.png"></div>
+<br><div align="center"><img src="imgs/footer.png" width=100%></div>
