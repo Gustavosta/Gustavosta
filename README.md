@@ -2,10 +2,10 @@
 
 
 <div align="flex">
-<code>
+<pre>
 <img src="imgs/window-icons.png" width=40px style="float:left; margin-bottom: -10px,">
 <p align="center">Welcome</p>
-</code>
+</pre>
 </div>
 <div>
 
@@ -41,6 +41,7 @@ I'm a Python developer with over 3+ years of experience developing bots for Tele
 - 💬 Ask me about anything related to Python
 - 👨‍💻 Read more about my projects and articles at [TabNews](https://www.tabnews.com.br/lengo)
 - ⚡ Fun fact: I ❤️ 😺s and 🍪!
+	<br>
 	</details>
 </div>
 
