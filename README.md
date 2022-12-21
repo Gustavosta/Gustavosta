@@ -3,7 +3,7 @@
 
 <div align="flex">
 <pre>
-<p style="text-align: center"><img src="imgs/window-icons.png" width=40px style="float: left; margin-bottom: -100px">hello-world.py</p>
+<p align="center"><img src="imgs/window-icons.png" width=40px style="float: left">hello-world.py</p>
 
 ```python
 #!/usr/bin/python
