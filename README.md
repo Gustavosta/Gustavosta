@@ -82,11 +82,11 @@ I'm a Python developer with over 3+ years of experience developing bots for Tele
 
 ## ⭐ Open Source Projects:
 
-Projects that for some reason I decided to do and publish to the world. :)
-
 <br>
 <div style="display: flex">
 <img src="https://camo.githubusercontent.com/1bc088dd92dd54a41b3eaafed8e50721bb7fa1fbcdc18b624df75e5cfe761df6/68747470733a2f2f656d6f6a2e6d6c2f61626c6f62646572707968617070792e676966" style="margin: 20px" width=200px align="left"><br>
+
+Projects that for some reason I decided to do and publish to the world. :)
 
 <table>
 	<thead align="center">
@@ -127,15 +127,15 @@ Projects that for some reason I decided to do and publish to the world. :)
 
 ## 🔒 Private Projects:
 
-Personal or "secret" projects that I'm doing and that for some reason I made this topic to list them here, even though I know that nobody will understand anything. :D
-
 <div style="display: flex">
+
+Personal or "secret" projects that I'm doing and that for some reason I made this topic to list them here, even though I know that nobody will understand anything. :D
 
 - [SonarRobot](https://github.com/SonarRobot) - A set of commercial bot repositories made for Telegram or Discord.
 - [LemonDore](https://github.com/LemonDore) - A project for an imaging service similar to [MidJourney](https://www.midjourney.com/home/) (🚧 Under Construction).
 - Sowlfie Nightcore - A bot to create videos of Nightcore versions of songs with lyrics and images using AI and post them on YouTube (🚧 Under Construction).
 
-<img src="https://camo.githubusercontent.com/a72f1f388d7fd82b2990647b8fce1bb2b1992512ed2c016abd60f9ce9da25258/68747470733a2f2f656d6f6a2e6d6c2f61626c6f626c75726b2e676966" style="margin: 20px" width=200px><br>
+<img src="https://camo.githubusercontent.com/a72f1f388d7fd82b2990647b8fce1bb2b1992512ed2c016abd60f9ce9da25258/68747470733a2f2f656d6f6a2e6d6c2f61626c6f626c75726b2e676966" style="margin: 20px" align="right" width=200px><br>
 </div>
 
 </details>
