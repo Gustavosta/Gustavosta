@@ -1,5 +1,12 @@
 <div align="center"><img src="imgs/head.png" width=100%></div><br>
 
+
+<div align="flex">
+<code>
+<img src="imgs/window-icons.png" width=40px style="float:left; margin-bottom: -10px,">
+<p align="center">Welcome</p>
+</code>
+</div>
 <div>
 
 ```python
@@ -32,7 +39,6 @@ I'm a Python developer with over 3+ years of experience developing bots for Tele
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning C#, Javascript
 - 💬 Ask me about anything related to Python
-- 📫 You can contact me via email: sowlfie[@]gmail.com
 - 👨‍💻 Read more about my projects and articles at [TabNews](https://www.tabnews.com.br/lengo)
 - ⚡ Fun fact: I ❤️ 😺s and 🍪!
 	</details>
@@ -146,7 +152,6 @@ Personal or "secret" projects that I'm doing and that for some reason I made thi
 
 ---
 
-<br>
 <div align="center">
 <h3><b>🔗 Connect with me:</b></h3><br>
 <a href="https://www.tabnews.com.br/lengo"><img src="imgs/social/tabnews.png" width=40 style="margin: 5px"></a>
