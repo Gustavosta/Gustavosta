@@ -1,9 +1,10 @@
 <div align="center"><img src="imgs/head.png" width=100%></div><br>
 
+<div align="center"><br><h3><b>🌎 Hello_world.py:</b></h3></div><br>
 
 <div align="flex">
 <pre>
-<p align="center"><img src="imgs/window-icons.png" width=40px align="left">hello-world.py</p>
+<p align="center"><a href="#"><img src="imgs/window-icons.png" width=40px align="left"></a>Welcome<a href="#"><img src="imgs/window-icons-holdplace.png" width=40px align="right"></a></p>
 
 ```python
 #!/usr/bin/python
