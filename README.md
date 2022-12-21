@@ -3,11 +3,7 @@
 
 <div align="flex">
 <pre>
-<img src="imgs/window-icons.png" width=40px style="float:left; margin-bottom: -10px,">
-<p align="center">Welcome</p>
-</pre>
-</div>
-<div>
+<p style="text-align: center"><img src="imgs/window-icons.png" width=40px style="float: left; margin-bottom: -100px">hello-world.py</p>
 
 ```python
 #!/usr/bin/python
@@ -26,8 +22,9 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
-<div align="center"><br><h3><b>📝 Summary of what I do:</b></h3></div>
-</div><br>
+</pre>
+</div>
+<div align="center"><br><h3><b>📝 Summary of what I do:</b></h3></div><br>
 
 <div style="display: flex">
 	<details>
@@ -41,7 +38,7 @@ I'm a Python developer with over 3+ years of experience developing bots for Tele
 - 💬 Ask me about anything related to Python
 - 👨‍💻 Read more about my projects and articles at [TabNews](https://www.tabnews.com.br/lengo)
 - ⚡ Fun fact: I ❤️ 😺s and 🍪!
-	<br>
+<br>
 	</details>
 </div>
 
