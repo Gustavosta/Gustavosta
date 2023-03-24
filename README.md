@@ -11,13 +11,13 @@
 # -*- coding: utf-8 -*-
 
 class Developer:
-	def __init__(self):
-		self.name = "Gustavo Santana"
-		self.role = "Developer"
-		self.language_spoken = ["pt_BR", "en_US"]
+    def __init__(self):
+        self.name = "Gustavo Santana"
+        self.role = "Developer"
+        self.language_spoken = ["pt_BR", "en_US"]
 
-	def say_hi(self):
-		print("Hiii! How are you? :)")
+    def say_hi(self):
+        print("Hiii! How are you? :)")
 
 
 me = Developer()
