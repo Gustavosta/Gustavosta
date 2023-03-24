@@ -4,7 +4,7 @@
 
 <div align="flex">
 <pre>
-<p align="center"><a href="#"><img src="imgs/window-icons.png" width=40px align="left"></a>Welcome<a href="#"><img src="imgs/window-icons-holdplace.png" width=40px align="right"></a></p>
+<p align="center"><a href="#"><img src="imgs/window-icons.png" width=40px align="left"></a>Welcome<picture><img src="imgs/window-icons-holdplace.png" width=40px align="right"></picture</p>
 
 ```python
 #!/usr/bin/python
@@ -128,9 +128,8 @@ Projects that for some reason I decided to do and publish to the world. :)
 	</thead>
 	</tr>
 	<tbody>
-	    <td rowspan="22">
-		        <img src="https://camo.githubusercontent.com/1bc088dd92dd54a41b3eaafed8e50721bb7fa1fbcdc18b624df75e5cfe761df6/68747470733a2f2f656d6f6a2e6d6c2f61626c6f62646572707968617070792e676966" width="300"/>
-		</picture>
+	    <td rowspan="11">
+			<img src="https://camo.githubusercontent.com/1bc088dd92dd54a41b3eaafed8e50721bb7fa1fbcdc18b624df75e5cfe761df6/68747470733a2f2f656d6f6a2e6d6c2f61626c6f62646572707968617070792e676966" width="300"/>
      	</td>
 		<tr>
 		<td><a href="https://github.com/Gustavosta/TabNews.py"><b>TabNews.py</a> - A library for communicating with the TabNews API</b></td>
