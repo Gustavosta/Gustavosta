@@ -31,7 +31,7 @@ me.say_hi()
 <div style="display: flex">
 <details>
 <summary>👤 About Me</summary><br>
-<img align='left' src="https://camo.githubusercontent.com/9c088f0ae8f132ef9dce540954d254426f923450756d1f4490870604befc827b/68747470733a2f2f656d6f6a2e6d6c2f61626c6f626c616d702e676966" style="margin: 20px" width=200px>
+<img align='left' src="imgs/blobs/blob-cat-pop.gif" style="margin: 20px" width=200px>
 
 I'm a Python developer with over 3+ years of experience developing bots for Telegram/Discord, APIs, automations, scripts and libraries.
 
@@ -49,7 +49,7 @@ I'm a Python developer with over 3+ years of experience developing bots for Tele
 <summary>🛠️ Languages and Tools</summary>
 <br>
 
-<img src="https://camo.githubusercontent.com/e4c08ac27cabca4d7fb4e893956391fc333728dceeda307d3a2f44d003561020/68747470733a2f2f656d6f6a2e6d6c2f61626c6f62686f6c6f6772616d2e676966" style="margin: 20px" width=200px align="right"><br>
+<img src="imgs/blobs/blob-splash.gif" style="margin: 20px" width=200px align="right"><br>
 
 <p align="left"></a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" max-width="50" height="50"/></a> 
@@ -86,7 +86,7 @@ I'm a Python developer with over 3+ years of experience developing bots for Tele
 
 <br>
 <div style="display: flex">
-<img src="https://camo.githubusercontent.com/f4aa137c0523cb7238cadb4543700b244cd35ffa2699ead323931e4a033b8af4/68747470733a2f2f656d6f6a2e6d6c2f61626c6f626177772e676966" style="margin: 20px" width=200px>
+<img src="imgs/blobs/blob-happy.gif" style="margin: 20px" width=200px>
 <img src="https://github-readme-stats.vercel.app/api?username=Gustavosta&hide_border=true&count_private=true&show_icons=true&theme=darcula" style="margin: 20px">
 </div>
 <br><br>
@@ -96,7 +96,7 @@ I'm a Python developer with over 3+ years of experience developing bots for Tele
 <br>
 <div style="display: flex">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavosta&theme=darcula&hide_border=true" style="margin: 20px">
-<img src="https://camo.githubusercontent.com/8be7855341ce6db780c1402ad8e3ba985a78fe7069875453f6ef0ad58e693d8c/68747470733a2f2f656d6f6a2e6d6c2f61626c6f6264756e64756e64756e2e676966" style="margin: 20px" width=200px>
+<img src="imgs/blobs/blob-jam.gif" style="margin: 20px" width=200px>
 </div>
 
 </details>
@@ -129,7 +129,7 @@ Projects that for some reason I decided to do and publish to the world. :)
 	</tr>
 	<tbody>
 	    <td rowspan="11">
-			<img src="https://camo.githubusercontent.com/1bc088dd92dd54a41b3eaafed8e50721bb7fa1fbcdc18b624df75e5cfe761df6/68747470733a2f2f656d6f6a2e6d6c2f61626c6f62646572707968617070792e676966" width="300"/>
+			<img src="imgs/blobs/blob_coffee_drop.png" width="300"/>
      	</td>
 		<tr>
 		<td><a href="https://github.com/Gustavosta/TabNews.py"><b>TabNews.py</a> - A library for communicating with the TabNews API</b></td>
